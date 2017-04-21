@@ -1,0 +1,66 @@
+SEARCHING: 1970 British Cohort Study
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: British Household Panel Survey
+/home/john_matthews/dev/public/projects/ref/UOA22 - Social Work and Social Policy.json
+SEARCHING: English Longitudinal Study of Ageing
+SEARCHING: Growing Up in Scotland
+SEARCHING: Longitudinal Study of Young People in England
+SEARCHING: Millennium Cohort Study
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: National Child Development Study
+/home/john_matthews/dev/public/projects/ref/UOA25 - Education.json
+SEARCHING: Understanding Society
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: Annual Population Survey
+SEARCHING: British Social Attitudes
+/home/john_matthews/dev/public/projects/ref/UOA20 - Law.json
+SEARCHING: Citizenship Survey
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: Community Life Survey
+SEARCHING: Continuous Household Survey
+SEARCHING: Crime Survey for England and Wales
+/home/john_matthews/dev/public/projects/ref/UOA20 - Law.json
+SEARCHING: English Housing Survey
+/home/john_matthews/dev/public/projects/ref/UOA16 - Architecture, Built Environment and Planning.json
+SEARCHING: English House Condition Survey and Survey of English Housing
+SEARCHING: European Union Statistics on Income and Living Conditions
+SEARCHING: Family Expenditure Survey
+SEARCHING: Family Resources Survey
+/home/john_matthews/dev/public/projects/ref/UOA22 - Social Work and Social Policy.json
+SEARCHING: FRS Individual Income Series
+SEARCHING: General Lifestyle Survey
+/home/john_matthews/dev/public/projects/ref/UOA2 - Public Health, Heath Services and Primary Care.json
+SEARCHING: Health Survey for England
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: Households Below Average Income
+/home/john_matthews/dev/public/projects/ref/UOA18 - Economics and Econometrics.json
+SEARCHING: Integrated Household Survey
+SEARCHING: Labour Force Survey
+/home/john_matthews/dev/public/projects/ref/UOA10 - Mathematical Sciences.json
+SEARCHING: Life Opportunities Survey
+SEARCHING: Living Costs and Food Survey
+SEARCHING: Living in Wales Survey
+/home/john_matthews/dev/public/projects/ref/UOA16 - Architecture, Built Environment and Planning.json
+SEARCHING: National Food Survey
+SEARCHING: National Survey for Wales
+SEARCHING: National Travel Survey
+SEARCHING: Northern Ireland Family Expenditure Survey
+SEARCHING: Northern Ireland Labour Force Survey
+SEARCHING: Northern Ireland Life and Times Survey
+/home/john_matthews/dev/public/projects/ref/UOA4 - Psychology, Psychiatry and Neuroscience.json
+SEARCHING: Opinions and Lifestyle Survey
+SEARCHING: ONS Opinions Survey and ONS Omnibus Survey
+SEARCHING: Scottish Crime and Justice Survey
+/home/john_matthews/dev/public/projects/ref/UOA22 - Social Work and Social Policy.json
+SEARCHING: Scottish Health Survey
+/home/john_matthews/dev/public/projects/ref/UOA26 - Sport and Exercise Sciences, Leisure and Tourism.json
+SEARCHING: Scottish Social Attitudes Survey
+/home/john_matthews/dev/public/projects/ref/UOA28 - Modern Languages and Linguistics.json
+SEARCHING: Survey of Carers in Households 2009/10
+SEARCHING: Time Use Survey
+SEARCHING: Vital Statistics
+/home/john_matthews/dev/public/projects/ref/UOA35 - Music, Drama, Dance and Performing Arts.json
+SEARCHING: Welsh Health Survey
+SEARCHING: Workplace Employment Relations Survey
+/home/john_matthews/dev/public/projects/ref/UOA20 - Law.json
+SEARCHING: Young Peoples Social Attitudes Survey

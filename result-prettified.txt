@@ -1,0 +1,136 @@
+# "Title of Study"
+#   =====> Sourced / Quoted Study
+
+"1970 British Cohort Study"
+    =====> Improved screening for dyslexia worldwide 
+    =====> Trouble talking: changing policy and practice for the language delayed child 
+
+"British Household Panel Survey"
+    =====> Influencing reform of disability benefits for older people 
+    =====> Paying for social care
+    =====> Addressing inequalities in health: Shaping the allocation of resources in the National Health Service
+    =====> Better measures of fuel poverty
+    =====> 22-04 Ageing, Intergenerational Relations and the Life Course
+    =====> Influencing reform of disability benefits for older people
+    =====> Improving financial capability and wellbeing in Britain
+    =====> British Household Panel Study: Informing government strategy and legislation
+    =====> Informing policy debate on `incapacity', employment, and social security benefits
+
+"Millennium Cohort Study"
+    =====> Improving care by understanding the effects of preterm birth on child and adolescent development 
+    =====> Case Study 3: Impact on policy and practice in early childhood services in England of the Impact Module of the National Evaluation of Sure Start
+    =====> Trouble talking: changing policy and practice for the language delayed child
+    =====> Family and gender role change: how they matter for on-going gender inequalities in production and reproduction
+    =====> Using analysis of cohort studies to inform social-mobility policy
+    =====> The establishment of the world's first specialist learning disabilities public health observatory, providing research to inform policy and commissioning
+    =====> Millennium Cohort Study: building a picture of a new generation
+
+"National Child Development Study"
+    =====> Child Trust Fund: the study that helped to deliver baby bonds 
+    =====> Family and gender role change: how they matter for on-going genderinequalities in production and reproduction
+
+"Understanding Society"
+    =====> Improving care by understanding the effects of preterm birth on child and adolescent development 
+    =====> The Impact of Research on Child Well-Being
+    =====> Developing a cost benefit analysis of social cohesion for use inevidence-based migration policy
+    =====> British Household Panel Study: Informing government strategy and legislation
+
+"British Social Attitudes"
+    =====> Cohabitation, marriage and the law: informing and influencing policy debates on legal reform in a changing society 
+    =====> The public policy impact of research on end-of-life care
+    =====> Cohabitation, marriage and the law: informing and influencing policy debates on legal reform in a changing society
+    =====> Nationalism and National Identity: Informing Political Life
+    =====> The Politics of Diversity: Immigration, Minorities and the Radical Right
+
+"Citizenship Survey"
+    =====> Promoting Community Cohesion and Social Integration through Inter-Group Contact 
+    =====> Strengthening government policy on community cohesion in England \u000aand Wales
+
+"Crime Survey for England and Wales"
+    =====> Trust in justice: mapping public attitudes towards the police and other legal institutions and how these findings have changed EU and UK policy 
+    =====> Crime drop, security and victimisation
+    =====> Improving the quality of life for citizens in the UK through shaping the organization and practice of policing
+
+"English Housing Survey"
+    =====> DECoRuM: an innovative Geographic Information System based carbon reduction model 
+
+"Family Resources Survey"
+    =====> Influencing reform of disability benefits for older people 
+    =====> North East Economic Model (NEEM)
+    =====> Healthy ageing and age-friendly cities: Reducing the social exclusion of older people
+    =====> Improving access to financial services for low-income households
+    =====> 10-03 Small Area Estimation: Data Provision for Smarter Local  Policymaking
+    =====> Child Support Research and Policy Impacts
+
+"General Lifestyle Survey"
+    =====> SHAPING INTERNATIONAL AND UK TOBACCO POLICY AND PRACTICE 
+    =====> The impact of the Sheffield Alcohol Policy Model on alcohol policy
+
+"Health Survey for England"
+    =====> Obesity and exercise: A psychological perspective 
+    =====> Bayesian methods for large scale small area estimation (SAE).
+    =====> Advancing methods for prioritising health research
+    =====> Informing national policy to increase prescribing of statins for the prevention of heart disease
+    =====> The Smoking Epidemic in England and Scotland: Shaping Public Health Policy and Planning
+    =====> Cardiovascular outcomes research: blood pressure and lipid lowering
+    =====> The epidemiology and promotion of physical activity
+    =====> Elucidating the early determinants of chronic lung disease: development of tools to enhance measurement and interpretation of lung function
+    =====> The AB\/CD of treating hypertension
+    =====> Waist circumference defines the need to take action on disease risk
+    =====> Development of mathematical models for Practice based Commissioning budgets for adult mental health in the UK
+    =====> Obesity and exercise: A psychological perspective
+    =====> Health Survey for England informs public policy on obesity
+    =====> Towards world-wide standardisation of caries detection, assessment and preventive management
+    =====> The National Surveys of Sexual Attitudes and Lifestyles (Natsal)
+    =====> Blood Pressure and Lipid-Lowering Treatment: Impact on Cardiovascular Outcomes and Influence on Guidelines
+    =====> Global Change in Guidelines Relating to Treatment of the Very Elderly
+    =====> Allocating Resources in the National Health Service
+
+"Households Below Average Income"
+    =====> Changing how poverty is measured and understood 
+    =====> British Household Panel Study: Informing government strategy and legislation
+
+"Labour Force Survey"
+    =====> 10-03 Small Area Estimation: Data Provision for Smarter Local Policymaking 
+    =====> Improving the Economic Role of State Education in Britain: Lessons \u000afrom the Independent Education Sector
+    =====> Ensuring fair compensation for accident victims in court
+    =====> Case 2 - Research on methods of estimating immigration to local authorities in England helped National Statistics improve their immigration and population statistics
+    =====> North East Economic Model (NEEM)
+    =====> Setting national minimum wages
+    =====> 10-03 Small Area Estimation: Data Provision for Smarter Local  Policy Making
+    =====> The development and application of the National Statistics Socio-Economic  Classification (NS-SEC)
+    =====> University fees and social mobility: a difficult balancing act
+    =====> A fairer approach to compensation for personal injury and fatal accident cases
+
+"Living in Wales Survey"
+    =====> Community Cohesion 
+
+"Northern Ireland Life and Times Survey"
+    =====> Impact on Northern Ireland Policy making from the use of findings on Community Relations 
+    =====> Addressing Intra-State Conflict: Civil Society Initiatives
+    =====> Influencing Debates on Post-Conflict Justice and Human Rights
+
+"Scottish Crime and Justice Survey"
+    =====> Crime drop, security and victimisation 
+
+"Scottish Health Survey"
+    =====> Monitoring global and national levels of physical activity in youth 
+    =====> Household food security in the global North
+    =====> Waist circumference defines the need to take action on disease risk
+
+"Scottish Social Attitudes Survey"
+    =====> Gaelic Language Policy in Scotland: Revitalising and Sustaining the Gaelic Language 
+
+"Vital Statistics"
+    =====> Plenum: Projecting music and science into the light 
+    =====> The Uruguayan Plan de Atenci&#243;n Nacional a la Emergencia Social
+    =====> The Clergy of the Church of England Database 1540-1835
+    =====> Cancer survival: impact on cancer control policy in England
+
+"Workplace Employment Relations Survey"
+    =====> Trust in justice: mapping public attitudes towards the police and other legal institutions and how these findings have changed EU and UK policy 
+    =====> Working with Acas - informing advice, policy and guidance
+    =====> Workplace Industrial Relations
+    =====> Measurement and Importance of the Gender Earnings Gap in the UK
+    =====> Employee ownership plans: individual behaviour and company outcomes
+    =====> The European Social Survey
